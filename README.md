@@ -28,3 +28,6 @@ This dashboard provides an interactive visualizations and insights from a Amazon
 - **File Name**: `Amazon Superstore Dashboard.pbix`
 - **File Type**: Power BI Desktop File
 - **Application**: Microsoft Power BI Desktop
+
+## 🖼️ Screenshots
+![Dashboard Preview].(https://github.com/HRSalet/Amazon-Superstore-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
