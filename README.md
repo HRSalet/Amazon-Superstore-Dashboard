@@ -25,10 +25,6 @@ This dashboard provides an interactive visualizations and insights from a Amazon
 - Customer segment filters
 
 ## 📁 File Information
-- **File Name**: `Amazon_Superstore_Dashboard.pbix`
-- **File Type**: Power BI Desktop File
-- **Application**: Microsoft Power BI Desktop
-
-- **File Name**: `Amazon_Superstore_Dashboard.pbix`
+- **File Name**: `Amazon Superstore Dashboard.pbix`
 - **File Type**: Power BI Desktop File
 - **Application**: Microsoft Power BI Desktop
