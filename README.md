@@ -30,4 +30,4 @@ This dashboard provides an interactive visualizations and insights from a Amazon
 - **Application**: Microsoft Power BI Desktop
 
 ## 🖼️ Screenshots
-![Dashboard Preview].(https://github.com/HRSalet/Amazon-Superstore-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Preview](https://github.com/HRSalet/Amazon-Superstore-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
